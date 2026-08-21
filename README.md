@@ -12,7 +12,7 @@ Applied Mathematics & Stats: Continuous probability, algorithm & mathematical an
 
 Systems & Data Engineering: Data structures, efficient pipeline design, visualization.
 
-Featured Projects & Work
+## Featured Projects & Work
 
 [IN4MATX-43] — mobile app with authentication helpers, profiles, interest tags, live locations, proximity preferences, messaging, ratings, reports, and recommendation activity events.
 
