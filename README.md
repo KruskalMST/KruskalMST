@@ -16,6 +16,14 @@ Systems & Data Engineering: Data structures, efficient pipeline design, visualiz
 
 [IN4MATX-43] — mobile app with authentication helpers, profiles, interest tags, live locations, proximity preferences, messaging, ratings, reports, and recommendation activity events.
 
+## Featured Coursework
+
+- Mathematics & Logic: Multivariable Calculus (Math 2D), Linear Algebra (Math 3A), Differential Equations (Math 3D), Discrete Mathematics (I&C SCI 6D), Boolean Logic (I&C SCI 6B)
+
+- Computer Science & Software: Data Structures & Algorithms (Stanford OHS), Accelerated Python Programming & Libraries (I&C SCI H32), Intermediate Programming (I&C SCI 33), Intro to Software Engineering (IN4MATX 43)
+
+- Statistics & Data Science: Statistical Computing & Exploratory Data Analysis (Stats 68), Intro to Probability & Statistics for CS (Stats 67)
+
 ## Connect & Collaborate
 
 Email: seiberte@uci.edu
