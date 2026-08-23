@@ -2,7 +2,7 @@
 
 ## Ema | UCI Computer Science + Statistics
 
-I'm an undergraduate student at UCI focused on machine learning, software engineering, and statistical modeling. My work sits at the intersection of theoretical foundations and practical implementation, with the central focus of applying machine learning to new problems. I architect scalable software systems to solve complex, large-scale problems using creative solutions.
+I'm an undergraduate student at UCI focused on machine learning, software engineering, and statistical modeling. My work sits at the intersection of theoretical foundations and practical implementation, with the central focus of applying machine learning to new problems. I architect scalable software systems to solve complex, large-scale challenges.
 
 ## Core Focus Areas
 
